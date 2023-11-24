@@ -26,7 +26,7 @@ users = ["", ""]
 try:
     if error_bot == 0:
         print("подключение стабильно")
-    bot = telebot.TeleBot('6604896635:AAEYvcBPvbE1YwrdZbmbv77xu-R9G_hypss')
+    bot = telebot.TeleBot('#тут ваш токен#')
 
 
 
